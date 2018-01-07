@@ -1,4 +1,4 @@
-# narrator
+# narrator (for Medium)
 
 Listen to any Medium article in two alternating voices.
 
