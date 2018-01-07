@@ -28,8 +28,3 @@ As soon as the page loads, you will begin to hear your article! (Make sure your 
 ## Author
 
 [Rita Alfonso](https://github.com/alfonsotech)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
