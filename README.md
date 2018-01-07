@@ -9,7 +9,7 @@ Fork the narrator repo.
 
 Clone && cd into your forked repo.
  
-From the command line, type ```node app.js <the url of the medium article you want to listen to```.
+From the command line, type ```node app.js <url-to-the-medium-article-you-want-to-listen-to>```.
 
 Open your web browser and go to ```http://localhost:3000/```.
 
