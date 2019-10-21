@@ -10,7 +10,7 @@
     "body-parser": "^1.15.2",
     "cheerio": "^1.0.0-rc.2",
     "cookie-parser": "~1.4.3",
-    "debug": "~2.2.0",
+    "debug": "~4.1.1",
     "express": "~4.13.4",
     "express-handlebars": "^3.0.0",
     "hbs": "~4.0.0",
